@@ -8,9 +8,7 @@ updates:
       day: "monday"
       time: "09:00"
     open-pull-requests-limit: 5
-    labels:
-      - "dependencies"
-      - "python"
+    labels: []
     commit-message:
       prefix: "chore"
       include: "scope"
@@ -30,9 +28,7 @@ updates:
       day: "monday"
       time: "09:00"
     open-pull-requests-limit: 3
-    labels:
-      - "dependencies"
-      - "github-actions"
+    labels: []
     commit-message:
       prefix: "chore"
       include: "scope"
